@@ -58,7 +58,7 @@ const userSchema = new mongoose.Schema({
 - Client -> Server: your client *somehow* has to authenticate who it is
 - WHY -> Server is a central computer which YOU control
 - Client (John) -> a computer which you don not control
-- Clien (John) has to prove that he is Joh
+- Client (John) has to prove that he is John
 
 ### Ways to authenticate
 - Client proves itself somehow on the secret/data (JWT)
